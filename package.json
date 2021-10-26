@@ -1,6 +1,6 @@
 {
-  "name": "web-chat-app",
-  "version": "0.0",
+  "name": "webchatapp",
+  "version": "0.3,0",
   "description": "Web chat for PT and EN speaking pt laxers",
   "engines": {
     "node": "14.x"
